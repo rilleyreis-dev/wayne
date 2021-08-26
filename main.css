@@ -1,0 +1,9 @@
+body{
+    background: #e1e2e1;
+    /* overflow:hidden; */
+}
+
+#divTable{
+    height: 50% !important;
+    overflow-y: auto;
+}
